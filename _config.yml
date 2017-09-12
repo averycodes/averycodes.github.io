@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+paginate: 5
+
+collections:
+  speaking:
+    output: true
+    permalink: /:collection/:name
+
+exclude:
+  - README.md

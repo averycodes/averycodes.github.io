@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>Speaking</h1>
+
+If you would like me to speak at your conference please email me at: <a href="http://www.google.com/recaptcha/mailhide/d?k=010Xw9lU4LfKZQDp3a34-Phg==&amp;c=orv2NSLweQm1MclrEzUHgg7_vOElXCYh_S9j4CX2dAY=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d010Xw9lU4LfKZQDp3a34-Phg\x3d\x3d\x26c\x3dorv2NSLweQm1MclrEzUHgg7_vOElXCYh_S9j4CX2dAY\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">a...@gmail.com</a>
+
+<div class="posts">
+  {% for doc in site.speaking %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ doc.relative_path }}">{{ doc.name }}</a></h1>
+      <p>{{ doc.location }}</p>
+      <p>{{ doc.date }}</p>
+    </article>
+  {% endfor %}
+</div>
