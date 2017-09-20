@@ -6,20 +6,25 @@ date: 2014-10-20
 location: 2014-10-20
 ---
 
-##Resourcse
-###Slideshow and Notes
+Resources
+=========
+Slideshow and Notes
+-------------------
 * [Slide Deck](http://slides.com/averycodes/codexxladies/)
 * [Git Repository](https://github.com/AveryWorkshops/teaching-git)
 
-###Additional Resources for Learning Git
+Additional Resources for Learning Git
+-------------------------------------
 * [CheatSheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 * [Github Code School](https://try.github.io/levels/1/challenges/1)
 
-###About Me
+About Me
+--------
 * [Follow Me on Twitter](http://twitter.com/averycodes)
 * [The Minerva Project is Hiring](http://www.minervaproject.com/about/)
 
-##The Event
+The Event
+---------
 [Version control with Avery Anderson](http://www.meetup.com/CodeXX/events/207877662/)
 
 October 20, 2014 · 6:00 PM

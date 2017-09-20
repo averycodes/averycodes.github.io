@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Ignite San Francisco"
+date:   2013-11-13
+categories: women
+---
+
 I've been to Mission High school twice in the past couple of months for an event put on by [Ignite](http://www.igniteworldwide.org/), an organization started in Seattle to connect young women in middle and high school with professional women working in STEM fields. 
 
 These are low-key events where small groups of high school women gather in a classroom and spend 10-15 minutes chatting with each of speakers about their experiences leading up to their career in a STEM field. And these careers were varried! We had game designers, and structural engineers. Biomedical engineers and environmental analysts. Data analytics and software engineering.
