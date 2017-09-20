@@ -1,5 +1,5 @@
 ---
-layout: writing
+layout: post
 name: Pyladies- Gittin' into Git
 date: 2015-11-18
 location: San Francisco, CA

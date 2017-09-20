@@ -1,5 +1,5 @@
 ---
-layout: writing
+layout: post
 name: Pyladies- Intro to Git
 date: 2015-02-24
 location: San Francisco, CA
