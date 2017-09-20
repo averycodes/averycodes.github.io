@@ -1,6 +1,6 @@
 ---
 layout: writing
-name: Pyladies: Gittin' into Git
+name: Pyladies- Gittin' into Git
 date: 2015-11-18
 location: San Francisco, CA
 ---

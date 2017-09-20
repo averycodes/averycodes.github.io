@@ -1,6 +1,6 @@
 ---
 layout: writing
-name: Pyladies: Intro to Git
+name: Pyladies- Intro to Git
 date: 2015-02-24
 location: San Francisco, CA
 ---

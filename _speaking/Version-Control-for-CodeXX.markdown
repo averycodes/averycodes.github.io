@@ -1,8 +1,9 @@
 ---
 layout: writing
-name: CodeXX: Version Control Workshop
+title: CodeXX- Version Control Workshop
+name: CodeXX- Version Control Workshop
 date: 2014-10-20
-location: Chattanooga, TN
+location: 2014-10-20
 ---
 
 ##Resourcse

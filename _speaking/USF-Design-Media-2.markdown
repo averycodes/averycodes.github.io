@@ -1,6 +1,6 @@
 ---
 layout: writing
-name: USF Design Media 2: And Now With Style
+name: USF Design Media 2- And Now With Style
 date: 2013-02-22
 location: San Francisco, CA
 ---
