@@ -7,3 +7,6 @@ collections:
 
 exclude:
   - README.md
+
+gems:
+  - jekyll-feed
