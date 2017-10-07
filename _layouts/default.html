@@ -1,20 +1,47 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="https://unpkg.com/basscss@8.0.2/css/basscss.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/default.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="{{ site.baseurl }}/css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="icon" 
+      type="image/png" 
+      href="{{ site.baseurl }}/images/favicon.ico">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>@averycodes</title>
+    <meta name="keywords" content="Avery Anderson Spiel averycodes software engineer education edtech" />
+    <meta name="description" content="" />
   </head>
 
   <body>
-    <h1>Avery Spiel</h1>
-    <div id="main" class="container">
-      {{ content }}
-    </div>
-
-
-    <div id="footer">
-      <i class="material-icons">copyright</i> Avery Spiel
-      Icons from <a href="https://material.io/icons/">Material Icons</a> by Material Design
+    <div id="page" class="container">
+      <div id="header">
+        <div id="logo">
+          <img src="{{ site.baseurl }}/images/avery_spiel.jpg" alt="" />
+          <h1><a href="/">Avery Spiel</a></h1>
+          <p class="byline"><a href="/">@averycodes</a></p>
+        </div>
+        <div id="menu">
+          <ul>
+            <li><a href="{{ site.baseurl }}/speaking">I speak at things</a></li>
+            <li><a href="{{ site.baseurl }}/writing">I write things</a></li>
+            <li><a href="{{ site.baseurl }}/projects">I make things</a></li>
+            <li><a href="{{ site.baseurl }}/resume">I have done things</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="main">
+        {{ content }}
+        <div id="copyright">
+          <span>&copy; Avery Spiel</span>
+          <span>
+            <a href="https://www.linkedin.com/in/averyspiel/"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://github.com/averycodes"><i class="fa fa-2x fa-github" aria-hidden="true"></i></a>
+            <a href="https://stackoverflow.com/users/2030953/avery-s"><i class="fa fa-2x fa-stack-overflow" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/averycodes"><i class="fa fa-2x fa-twitter" aria-hidden="true"></i></a>
+            <a href="#"><i class="fa fa-2x fa-rss" aria-hidden="true"></i></a>
+          </span>
+        </div>
+      </div>
     </div>
   </body>
 </html>
