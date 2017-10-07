@@ -8,14 +8,13 @@ layout: default
   </div>
   <ul class="style1">
     {% for doc in site.speaking %}
-        <li class="first">
-          <p class="date"><a href="{{ site.baseurl }}{{ doc.relative_path }}">Jan<b>05</b></a></p>
-          <h3>{{ doc.name }}</h3>
-          <a href="{{ site.baseurl }}{{ doc.relative_path }}">
-            <p>{{ doc.location }}</p>
-            <p>{{ doc.date }}</p>
-          </a>
-        </li>
+      <li class="first">
+        <p class="date">{{doc.date | date: "%b"}}<b>{{doc.date | date: "%-d"}}</b></p>
+        <h3><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a></h3>
+        <p>{{ doc.location }}</p>
+        <p>{{ doc.city }}</p>
+        <p>{{ doc.date | date: "%A, %B %d, %Y" }}</p>
+      </li>
     {% endfor %}
   </ul>
 </div>
