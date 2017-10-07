@@ -3,7 +3,8 @@ layout: post
 title: CodeXX- Version Control Workshop
 name: CodeXX- Version Control Workshop
 date: 2014-10-20
-location: 2014-10-20
+location: Downtown Chattanooga Library
+city: Chattanooga, TN
 ---
 
 Resources

@@ -2,7 +2,8 @@
 layout: post
 name: Pyladies- Intro to Git
 date: 2015-02-24
-location: San Francisco, CA
+location: Heroku, First Floor
+city: San Francisco, CA
 ---
 
 Resources

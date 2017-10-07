@@ -2,7 +2,8 @@
 layout: post
 name: USF Design Media 2- And Now With Style
 date: 2013-02-22
-location: San Francisco, CA
+location: University of San Francisco
+city: San Francisco, CA
 ---
 
 USF Design Media 2: And Now With Style

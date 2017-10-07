@@ -2,7 +2,7 @@
 layout: post
 name: Women Who Code Lightening Talks- Technical Interviewing
 date: 2012-08-12
-location: San Francisco, CA
+city: San Francisco, CA
 ---
 
 Women Who Code Lightening Talks
