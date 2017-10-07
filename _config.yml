@@ -1,5 +1,3 @@
-paginate: 5
-
 collections:
   speaking:
     output: true
@@ -10,3 +8,5 @@ exclude:
 
 gems:
   - jekyll-feed
+
+timezone: America/Los_Angeles
