@@ -1,6 +1,4 @@
-I'm getting soon and I had this crazy idea that I should make my own wedding dress. Why? Probably because deep down I hate the idea of standing on stage in a shop full of white while women around me cheer and cry. Also I like sewing.
-
-As part of this endeavor I made myself. I'd rather not try to fit the dress on my person so I made a stunt double who doesn't mind taking a pin or two. The instructions I've put together below are the results of two iterations of dress-form construction after reading through [a thorough post](https://jezebel.com/5803791/how-to-make-a-custom-dress-form-part-one) by [Jenna Sauers](https://jezebel.com/tag/jenna-sauers) and this [other also very thorough](https://modiquebychalise.blogspot.de/2012/02/my-own-custom-made-dress-form.html.) post by [Chalise](https://www.modique.com/pages/about).
+The instructions I've put together below are the results of two iterations of dress-form construction after reading through [a thorough post](https://jezebel.com/5803791/how-to-make-a-custom-dress-form-part-one) by [Jenna Sauers](https://jezebel.com/tag/jenna-sauers) and this [other also very thorough](https://modiquebychalise.blogspot.de/2012/02/my-own-custom-made-dress-form.html.) post by [Chalise](https://www.modique.com/pages/about).
 
 I'm very pleased with the results
 
