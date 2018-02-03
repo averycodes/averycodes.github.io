@@ -4,18 +4,19 @@ I'm very pleased with the results
 
 ## Part I: Making the mold
 ### Supplies
-Old underwear
-[Plaster Bandages](http://amzn.to/2hbPDa4) (medical ones NOT craft) 30ish rolls 10m x 27 cm
-Scissors 
-Dremel/[Rotary Cutting Tool](http://amzn.to/2hf2clp)
-Extra Dremel [cutting discs](http://amzn.to/2hnps3J)
-Warm Water in a wide, shallow container
-[Drop Cloth](http://amzn.to/2hbQUhu) for the floor
-Vasoline
-Plastic Peanuts or other cushion
-Box
-Sharpie
-Heater
+* Old underwear
+* [Plaster Bandages](http://amzn.to/2hbPDa4) (medical ones NOT craft) 30ish rolls 10m x 27 cm
+* Scissors
+* [medical scissors](https://www.amazon.com/Ever-Ready-Titanium-Bandage-Tactical/dp/B01AS7P8KG/)
+* Dremel/[Rotary Cutting Tool](http://amzn.to/2hf2clp)
+* Extra Dremel [cutting discs](http://amzn.to/2hnps3J)
+* Warm Water in a wide, shallow container
+* [Drop Cloth](http://amzn.to/2hbQUhu) for the floor
+* Vasoline
+* Plastic Peanuts or other cushion
+* Box
+* Sharpie
+* Heater (optional)
 
 ### Directions
 0. Turn on heater in the space, use the toilet, put hair up, wear heels for better posture
@@ -35,14 +36,14 @@ Draw around your feet and find a spot to stare at
 
 ## Part II: Preparing the mold
 ### Supplies
-[Plaster of Paris](http://amzn.to/2hdiq0Z)
-Warm Water
-[Kidney Tool](http://amzn.to/2hbWXm3)
-[Johnson's Paste Wax](http://amzn.to/2hbL2op)
-Paint brush
-Plaster bandages
-Plastic wrap or plastic bag
-food dye (optional)
+* [Plaster of Paris](http://amzn.to/2hdiq0Z)
+* Warm Water
+* [Kidney Tool](http://amzn.to/2hbWXm3)
+* [Johnson's Paste Wax](http://amzn.to/2hbL2op)
+* Paint brush
+* Plaster bandages
+* Plastic wrap or plastic bag
+* food dye (optional)
 
 ### Directions
 12. Let dry for 24 hours
@@ -54,14 +55,14 @@ food dye (optional)
 
 ## Part III: Filling the mold
 ### Supplies
-Polyurathane (smooth on?) 2kg version ok 6 pounds of it (f3 from brick in the yard supply?)
-2 measuring cups (1 for each part)
-mixing bowl
-wooden mixing sticks
-Protective Gloves
-Floor covering
-Box to hold mold upright
-[Ikea Näpen](http://amzn.to/2hf1q85)
+* Polyurathane (smooth on?), 2kg version ok, 6 pounds of it
+* 2 measuring cups (1 for each part)
+* mixing bowl
+* wooden mixing sticks
+* Protective Gloves
+* Floor covering
+* Box to hold mold upright
+* [Ikea Näpen](http://amzn.to/2hf1q85)
 
 ### Directions
 15. Watch a bunch of youtube videos of the foaming process to make sure you know what's about to happen
@@ -71,8 +72,8 @@ Box to hold mold upright
 
 ## Part IV: Removing the mold
 ### Supplies
-Sandpaper
-breadknife
+* Sandpaper
+* breadknife
 
 ### Directions
 19. Wait at least 24 hours before releasing from the mold
@@ -82,7 +83,7 @@ breadknife
 
 ## Part V: Finishing the Dress Form
 ### Supplies
-4 way stretch fabric
+* 4 way stretch fabric
 
 ### Directions
 22. The easiest way to cover your dress form is to sew up a tight-fitting tube of the stretch fabric.
