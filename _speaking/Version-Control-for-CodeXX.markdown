@@ -1,5 +1,5 @@
 ---
-layout: post_speaking
+layout: speaking_post
 title: CodeXX- Version Control Workshop
 name: CodeXX- Version Control Workshop
 date: 2014-10-20
