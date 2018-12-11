@@ -70,7 +70,7 @@ Improper Use
 ============
 
 The triggering of `onShow()` methods will behave unexpectedly if you do not handle handle nested `.show()` method calls carefully. Below is a diagram of a concrete example of deeply nested layouts and views that illustrate this:
-{<2>}![Deeply nested views](/content/images/2013/Nov/Screen_Shot_2013_11_14_at_11_03_21_PM.png)
+![Deeply nested views]({{ site.url }}/images/marionette-on-show.png)
 
 Layout A Snippet
 ----------------
