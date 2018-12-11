@@ -35,9 +35,8 @@ city: San Francisco, CA
 
 [Intro to Git- Pyladies](http://www.meetup.com/PyLadiesSF/events/220460450/)
 
-February 24, 2015 · 6:00 PM
-
-Heroku, First floor
+> February 24, 2015 · 6:00 PM
+> Heroku, First floor
 
 **The Tweets**
 
