@@ -6,10 +6,6 @@ location: Asana
 city: San Francisco, CA
 ---
 
-Gitting' into Git Resources
----------------------------
-
-
 **Slideshow and Notes**
 
 * [Slide Deck](http://slides.com/averycodes/gitting-into-git)
@@ -41,8 +37,11 @@ Gitting' into Git Resources
 [Intro to Git- Pyladies](http://www.meetup.com/PyLadiesSF/events/226695178/)
 
 December 18, 2015 · 6:00 PM
+
 Asana
+
 1550 Bryant. St, 8th Floor
+
 San Francisco, CA 
 
 **The Tweets**
