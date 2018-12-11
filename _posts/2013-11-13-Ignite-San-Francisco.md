@@ -20,8 +20,7 @@ _"Not all of them were interested in what they are doing now when they were my a
 
 _"I saw the inside of a Mac."_
 
-{<1>}![Ignite San Francisco Mission High School](/content/images/2013/Nov/ignite_sf.jpeg)
-
+![Ignite San Francisco Mission High School]({{ site.url }}/images/ignite_sf.jpg)
 _Ellen Norton talks about her experiences in STEM with young women from Mission High School_
 
 However, for me I got even more out of the experience than these young women did. I realize that it's rare for me to interact with so many interesting, qualified women. I am the only woman in my development team and have been my whole career starting with my first mechanical engineering internship at OSRAM Sylvania. 
