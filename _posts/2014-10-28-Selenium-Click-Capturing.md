@@ -22,7 +22,7 @@ With tests that are failing sporadically, especially if the click happens soon a
 
 In our tests, when a page was first loading, Selenium would find a button to click and in the time between when the button coordinates were located and the mouse was clicked, CSS reflowing caused the position of the button to be relocated.
 
-{<1>}![Selenium Click Capturing](/content/images/2013/Nov/Screen_Shot_2013_11_14_at_11_51_04_PM.png)
+![selenium layout]({{ site.url }}/images/selenium-layout.png)
 
 
 Possible (python selenium) Solutions
