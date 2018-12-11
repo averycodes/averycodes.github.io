@@ -5,10 +5,6 @@ date: 2012-08-12
 city: San Francisco, CA
 ---
 
-Women Who Code Lightening Talks
--------------------------------
-
-
 **Slideshow and Notes**
 
 * [Recorded Talk](http://www.youtube.com/watch?v=bdpwbkG_pQ4&list=PL04E221047CDFB391&index=10&feature=plpp_video)
