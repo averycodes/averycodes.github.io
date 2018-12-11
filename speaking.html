@@ -7,7 +7,7 @@ layout: default
     <h2>Speaking</h2>
   </div>
   <ul class="style1">
-    {% for doc in site.speaking %}
+    {% for doc in site.speaking reversed %}
       <li class="first">
         <p class="date">{{doc.date | date: "%b"}}<b>{{doc.date | date: "%-d"}}</b></p>
         <h3><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a></h3>
