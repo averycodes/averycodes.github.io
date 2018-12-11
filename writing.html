@@ -7,7 +7,7 @@ layout: default
     <h2>Writing</h2>
   </div>
   <ul class="style1">
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
       <li class="first">
         <p class="date">{{post.date | date: "%b"}}<b>{{post.date | date: "%-d"}}</b></p>
         <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
