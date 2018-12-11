@@ -6,42 +6,41 @@ location: Heroku, First Floor
 city: San Francisco, CA
 ---
 
-Resources
-=========
-Slideshow and Notes
--------------------
+**Slideshow and Notes**
+
 * [Slide Deck](http://slides.com/averycodes/git-for-pyladies)
 * [Git Repository](https://github.com/AveryWorkshops/teaching-git)
 * [Follow Along Sheet](https://docs.google.com/document/d/1mCDG5PIBGttMTvlD-VjpwruwCX9dWTFOmT57wLTgoTc/edit?usp=sharing)
 
-Additional Resources for Learning Git
--------------------------------------
+**Additional Resources for Learning Git**
+
 * [Github Code School](https://try.github.io/levels/1/challenges/1)
 * [Git Immersion](http://gitimmersion.com/)
 * [CheatSheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
-Great Git GUIs
---------------
+**Great Git GUIs**
+
 * [Github GUI for Windows](https://windows.github.com/)
 * [Github GUI for Mac](https://mac.github.com/)
 * [Tower](http://www.git-tower.com/)
 * [Source Tree](http://www.sourcetreeapp.com/)
 
-About Me
---------
+**About Me**
+
 * [Follow Me on Twitter](http://twitter.com/averycodes)
 * [The Minerva Project is Hiring](http://www.minervaproject.com/about/)
 
 
-The Event
-=========
+**The Event**
+
 [Intro to Git- Pyladies](http://www.meetup.com/PyLadiesSF/events/220460450/)
 
 February 24, 2015 · 6:00 PM
+
 Heroku, First floor
 
-The Tweets
-==========
+**The Tweets**
+
 <blockquote class="twitter-tweet" lang="en"><p>.<a href="https://twitter.com/averycodes">@averycodes</a> just gave a wonderful <a href="https://twitter.com/pyladiessf">@pyladiessf</a> workshop on Git. Highly recommend it if you&#39;ve been looking for a good teacher!</p>&mdash; Mike Perez (@Thingee) <a href="https://twitter.com/Thingee/status/570461224095391744">February 25, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
