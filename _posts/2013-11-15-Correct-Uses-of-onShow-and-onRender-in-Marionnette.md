@@ -46,7 +46,7 @@ onRender
 
 `onRender()` was a misleading term for me. "onRender", I said to myself, "The sounds like it would be invoked when DOM elements have been _rendered_ by the browser." 
 
-{<1>}![False](/content/images/2013/Nov/images.jpg)
+![false meme]({{ site.url }}/images/false-meme.jpg)
 
 **`onRender()` gets triggered when the View's DOM subtree is prepared for insertion into the DOM but before those elements are viewable.** Putting code in the onRender function of your view will NOT guarantee that you will have jQuery access to these newly created elements.
  
