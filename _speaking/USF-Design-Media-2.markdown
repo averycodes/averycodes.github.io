@@ -1,5 +1,5 @@
 ---
-layout: post_speaking
+layout: speaking_post
 name: USF Design Media 2- And Now With Style
 date: 2013-02-22
 location: University of San Francisco
