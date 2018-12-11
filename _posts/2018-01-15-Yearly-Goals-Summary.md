@@ -2,12 +2,12 @@
 layout: post
 title:  "Yearly Goals Summary - 2018"
 date:   2018-01-15
-categories: women
+categories: goals
 ---
 
 **Mission**
 
-We’re past the basics, now focusing on “level-ups”: This year public speaking and architecting.
+Focusing on “level-ups”: This year public speaking and architecting.
 
 **Goals**
 
