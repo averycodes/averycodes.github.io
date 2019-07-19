@@ -25,7 +25,6 @@ Focusing on “level-ups”: This year public speaking and architecting.
 
 * _#speaking_: Submit at least 3 proposals for the 2018 talk cycle
 * _#architecting_: Be the lead engineer behind the architecture and design of a new project or a project needing a strong refactor
-* _#skills_: Doesn’t flail while debugging in pudb
 
 **Bookclub**
 * [2 Scoops of Django](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729/)
